@@ -206,7 +206,6 @@ The system does not require or control live cameras, PLCs, robotic sorting syste
 
 All recommendations, bottleneck interventions, and profitability estimates remain simulated or advisory.
 
-8. Checkpoint 1 Focus
 
 This README addresses the three Checkpoint 1 evaluation areas:
 
